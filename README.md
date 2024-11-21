@@ -4,7 +4,7 @@ Home Assistent Fish Tank
 
 ---
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
