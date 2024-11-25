@@ -8,9 +8,9 @@
 
 ## Home Assistant
 
-<img src="https://github.com/user-attachments/assets/f9db58f3-2354-44e8-9d7c-f750b9abfae4" width="100%" />
+<img src="https://github.com/user-attachments/assets/6d0a55d4-ad18-4205-97b9-f8ad5d93859c" width="100%" />
 
----
+## License
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
