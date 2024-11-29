@@ -8,7 +8,7 @@
 
 ## Home Assistant
 
-<img src="https://github.com/user-attachments/assets/6d0a55d4-ad18-4205-97b9-f8ad5d93859c" width="100%" />
+<img src="https://github.com/user-attachments/assets/842fe206-aa6e-4024-8cdf-060bba8732e5" width="100%" />
 
 ## License
 
