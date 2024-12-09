@@ -4,7 +4,7 @@
 
 ## Design (with `draw.io`)
 
-<img src="https://github.com/user-attachments/assets/f851f92a-0794-45e0-8a05-9826c60f4067" width="100%" />
+<img src="https://github.com/user-attachments/assets/ee14fa1d-33b3-4f89-b5a5-1287e424260a" width="100%" />
 
 ## Home Assistant
 
