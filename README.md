@@ -1,6 +1,6 @@
 # HAFT
 
-**H**ome **A**ssistent **F**ish **T**ank
+**H**ome **A**ssistent-Enabled **F**ish **T**ank
 
 ## Design (with `draw.io`)
 
@@ -8,7 +8,7 @@
 
 ## Home Assistant
 
-<img src="https://github.com/user-attachments/assets/842fe206-aa6e-4024-8cdf-060bba8732e5" width="100%" />
+<img src="https://github.com/user-attachments/assets/cafeec25-58ef-4019-9c01-4a7c664b14d7" width="100%" />
 
 ## License
 
