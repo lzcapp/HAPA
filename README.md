@@ -6,6 +6,10 @@
 
 <img src="https://github.com/user-attachments/assets/ee14fa1d-33b3-4f89-b5a5-1287e424260a" width="100%" />
 
+## My Fishes
+
+<img src="https://github.com/user-attachments/assets/e4be1b09-05ce-4e5a-9859-3a9dc19845b4" width="100%" />
+
 ## Home Assistant
 
 <img src="https://github.com/user-attachments/assets/cafeec25-58ef-4019-9c01-4a7c664b14d7" width="100%" />
