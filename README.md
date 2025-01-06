@@ -1,6 +1,6 @@
 # HAFT
 
-**H**ome **A**ssistent-Enabled **F**ish **T**ank
+**H**ome **A**ssistent-Enabled **P**ersonal **A**quarium
 
 ## Design (with `draw.io`)
 
