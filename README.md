@@ -1,4 +1,4 @@
-# HAFT
+# HAPA
 
 **H**ome **A**ssistent-Enabled **P**ersonal **A**quarium
 
