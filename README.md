@@ -4,7 +4,7 @@
 
 ## My Fishes
 
-<img src="https://github.com/user-attachments/assets/e4be1b09-05ce-4e5a-9859-3a9dc19845b4" width="100%" />
+<img src="https://github.com/user-attachments/assets/d1b185f8-a250-4001-bc7f-3e76fa1b68f3" width="100%" />
 
 ## Design
 
