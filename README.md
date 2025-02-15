@@ -12,7 +12,7 @@
 
 ## Home Assistant
 
-<img src="https://github.com/user-attachments/assets/ddcf95e2-d5e7-4398-bc25-ebbc3cd3f1cb" width="100%" />
+<img src="https://github.com/user-attachments/assets/be34c563-fe94-443d-8397-1ad379a34f3f" width="100%" />
 
 ## License
 
