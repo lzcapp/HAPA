@@ -4,7 +4,7 @@
 
 ## My Fishes
 
-<img src="./Xmind/Fishes_transparent.png" width="100%" />
+<img src="./Xmind/Fishes.png" width="100%" />
 
 ## Design
 
