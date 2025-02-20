@@ -4,7 +4,7 @@
 
 ## My Fishes
 
-<img src="https://github.com/user-attachments/assets/8c0df584-9c34-49d7-a593-1eabdf99e662" width="100%" />
+<img src="./Xmind/Fishes_transparent.png" width="100%" />
 
 ## Design
 
